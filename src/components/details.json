@@ -1,0 +1,31 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "degree": "Master of Computer Applications",
+      "institution": "School of Computer Science and IT, University of DAVV Indore (M.P.)",
+      "years": "2024 - 2025"
+    },
+    {
+      "id": 2,
+      "degree": "Bachelor of Computer Applications",
+      "institution": "Govt. (Model, Autonomous) Holkar Science Collage Indore (M.P.)",
+      "years": "2021 - 2024"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Community Specialist",
+      "company": "TechQuanta",
+      "years": "Feb 2025 - Present",
+      "responsibilities": [
+        "Managed and fostered growth within the developer community.",
+        "Created technical content and tutorials for emerging technologies.",
+        "Facilitated workshops and live coding sessions.",
+        "For more details, visit:https://techquanta.tech"
+      ]
+    }
+    
+  ]
+}
